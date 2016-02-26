@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Lab1UI</string>
+    <string name="name">Nombre</string>
+    <string name="ape">Apellido</string>
+    <string name="sexo">Sexo</string>
+    <string name="date">Fecha de nacimiento</string>
+    <string name="pais">País</string>
+    <string name="tel">Teléfono</string>
+    <string name="address">Dirección</string>
+    <string name="email">e-mail</string>
+    <string name="hobbies">Hobbies</string>
+    <string name="favorito">Favorito</string>
+    <string name="mostrar">Mostrar</string>
+    <string name="ma">Masculino</string>
+    <string name="fe">Femenino</string>
+    <string name="ot">Otro</string>
+    <string name="isFav">Sí</string>
+    <string name="isNFav">No</string>
+    <string name="error">Hay campos sin completar</string>
+    <string-array name="countries">
+        <item>Colombia</item>
+        <item>Bolivia</item>
+        <item>Perú</item>
+        <item>Haiti</item>
+    </string-array>
+    <string-array name="hobbies_array">
+        <item>Música</item>
+        <item>Lectura</item>
+        <item>Deportes</item>
+        <item>Cine</item>
+        <item>Conducir</item>
+        <item>Correr</item>
+    </string-array>
+    </resources>

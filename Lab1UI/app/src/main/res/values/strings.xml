@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="app_name">Lab1UI</string>
+        <string name="name">Name</string>
+        <string name="ape">Last Name</string>
+        <string name="sexo">Gender</string>
+        <string name="date">Birthday</string>
+        <string name="pais">Country</string>
+        <string name="tel">Telephone</string>
+        <string name="address">Address</string>
+        <string name="email">e-mail</string>
+        <string name="hobbies">Hobbies</string>
+        <string name="favorito">Favorite</string>
+        <string name="mostrar">Show</string>
+        <string name="ma">Male</string>
+        <string name="fe">Female</string>
+        <string name="ot">Other</string>
+        <string name="isFav">Yes</string>
+        <string name="isNFav">No</string>
+        <string name="error">There are some blank fields</string>
+        <string-array name="countries">
+            <item>Colombia</item>
+            <item>Bolivia</item>
+            <item>Peru</item>
+            <item>Haiti</item>
+        </string-array>
+        <string-array name="hobbies_array">
+            <item>Music</item>
+            <item>Reading</item>
+            <item>Sports</item>
+            <item>Cinema</item>
+            <item>Driving</item>
+            <item>Running</item>
+        </string-array>
+</resources>
